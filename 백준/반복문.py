@@ -43,3 +43,27 @@
 #    a,b=map(int,sys.stdin.readline().rstrip().split())
 #    print(a+b)
 
+#11021
+#T = int(input())
+#for i in range(1,T+1):
+#  A,B= map(int,input().split())
+#  print(f"Case #{i}: {A+B}") # f-string : 문자열 안에 {}를 넣어 변수를 표현
+
+#11022
+#T = int(input())
+#for i in range(1,T+1):
+# A,B=map(int,input().split())
+# print(f"Case #{i}: {A} + {B} = {A+B}")
+
+#2438
+#N=int(input())
+#if 1<=N<=100:
+# for i in range(1,N+1):
+#   print("*"*i)
+
+#2439
+
+
+
+
+
