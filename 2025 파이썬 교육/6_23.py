@@ -1,7 +1,7 @@
 # type() #인수의 자료형을 모니터에 표출
 # print(type("apple"))
 
-# range(start,stop,step) #start값부터 stop -1까지 step만큼 띄어서 생성
+#range(start,stop,step) #start값부터 stop -1까지 step만큼 띄어서 생성 
 #x의 자료형은 어떻게 변환할까?
 #x=input("정수를 입력하시오 : ")
 #print(type(x))
