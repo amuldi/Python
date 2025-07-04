@@ -62,8 +62,6 @@ t.goto(45, 90)
 t.pendown()
 t.forward(45)
 
-
-
 #코
 t.penup()
 t.goto(-10,-15)
