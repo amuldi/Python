@@ -1,2 +1,4 @@
 #문제 9,10,11,12
-print(1200000/27)
+import random
+x = random.randint(1,49)
+print(x)
